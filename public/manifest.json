@@ -1,0 +1,24 @@
+{
+  "short_name": "Procedure Dir",
+  "name": "Medical Procedure Directory",
+  "description": "An interactive clinical procedure directory and quotation builder for Mwin Tuba Hospital, complete with search, filtering, and custom patient estimate capabilities.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#12130F",
+  "background_color": "#12130F",
+  "orientation": "any"
+}

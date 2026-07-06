@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Rounded base in Hospital Slate Dark -->
+  <rect width="512" height="512" rx="120" fill="#12130F"/>
+  
+  <!-- Outer glowing green accent ring -->
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#10B981" stroke-width="4" opacity="0.15"/>
+  <circle cx="256" cy="256" r="130" fill="none" stroke="#10B981" stroke-width="2" opacity="0.1"/>
+  
+  <!-- Dynamic Medical Chevron / Cross Background element -->
+  <g opacity="0.1">
+    <path d="M256 90v332M90 256h332" stroke="#10B981" stroke-width="16" stroke-linecap="round"/>
+  </g>
+
+  <!-- Centered Bold Elegant Abbreviation "MTH" -->
+  <text 
+    x="256" 
+    y="280" 
+    font-family="system-ui, -apple-system, 'SF Pro Display', Roboto, Helvetica, sans-serif" 
+    font-size="115" 
+    font-weight="900" 
+    fill="#FFFFFF" 
+    text-anchor="middle" 
+    letter-spacing="-2"
+  >MTH</text>
+
+  <!-- Green Medical Cross or Accent Dot next to the text -->
+  <circle cx="395" cy="205" r="12" fill="#10B981" />
+  
+  <!-- Subtle line accent -->
+  <path d="M160 325h192" stroke="#10B981" stroke-width="6" stroke-linecap="round" opacity="0.85" />
+</svg>

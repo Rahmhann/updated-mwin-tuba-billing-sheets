@@ -1,0 +1,6 @@
+{
+  "name": "Medical Procedure Directory",
+  "description": "An interactive clinical procedure directory and quotation builder for Mwin Tuba Hospital, complete with search, filtering, and custom patient estimate capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
